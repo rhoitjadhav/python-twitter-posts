@@ -1,9 +1,9 @@
 '''
 Python List (Basic)
-	- Store multiple items in single list
-	- Mutable datatype
-    - Store different kinds of datatypes (e.g. int, str, dict, etc)
-    - indexing starts from `0`
+    - Store multiple items in single list
+    - Mutable datatype
+    - Store different kinds of datatypes (e.g. int, str, dict, etc)
+    - indexing starts from `0`
 '''
 
 # Create numbers list
