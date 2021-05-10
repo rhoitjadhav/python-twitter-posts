@@ -4,4 +4,4 @@ Python Twitter Posts project aims to posts code snippets on Twitter. These posts
 
 ## My Twitter Profile
 
-[rhoitjad](https://twitter.com/rhoitjad)
+[rhoitjadhav](https://twitter.com/rhoitjadhav)
