@@ -1,5 +1,5 @@
 '''
-Python Accepting User Input
+Python Accepting User Input (Basic 2)
 
 Example: input() function examples
 '''
