@@ -1,20 +1,18 @@
 '''
-Python For Loop (Basic 2)
+Python For Loop (Intermediate 1)
 
 Example: for loop examples
 '''
 numbers = [1, 2, 3, 4, 5]
-
+squares = []
 for i in range(len(numbers)):
-    print(numbers[i])
+    squares.append(numbers[i] ** 2)
 
+
+print("Squares:", squares)
 
 '''
 Output:
-1
-2
-3
-4
-5
+Squares: [1, 4, 9, 16, 25]
 '''
 
